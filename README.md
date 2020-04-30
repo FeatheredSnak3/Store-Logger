@@ -1,2 +1,3 @@
-# Store-Logger
-Java program to manage backend inventory of a Store
+# Item Logger
+
+Item Logger is a Java program created to manage back-end inventory of a store.
